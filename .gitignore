@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 .env
 
-KicksTV/settings/local.py
+src/KicksTV/settings/local.py
 
 # C extensions
 *.so
