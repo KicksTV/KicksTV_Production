@@ -1,1 +1,0 @@
-# KicksTV-Django2
